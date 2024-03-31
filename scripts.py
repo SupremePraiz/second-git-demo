@@ -12,3 +12,5 @@ car2 = SuperCars("BMW X6",2025)
 
 car1.run()
 car2.run()
+print(car1.name,car1.year)
+print(car2.name,car2.year)
