@@ -8,5 +8,7 @@ class SuperCars():
         
         
 car1 = SuperCars("BMW X5", 2024)
+car2 = SuperCars("BMW X6",2025)
 
-print(car1.run())
+car1.run()
+car2.run()
